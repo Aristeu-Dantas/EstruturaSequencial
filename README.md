@@ -1,1 +1,3 @@
 # EstruturaSequencial
+
+Questões de revisão.
